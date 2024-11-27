@@ -1,5 +1,4 @@
 import argparse
-import urllib
 import os
 import json
 import requests
@@ -13,9 +12,14 @@ def url(usuario):
     return f"https://api.github.com/users/{usuario}/events"
 
 def salva_json():
-    if os.path.exists(caminho_completo):
-        with open("atividade.json", "r", encoding="utf-8") as arquivo:
-            atividade = json.load(arquivo)
+    url = url(usuario)
+
+    resposta = requests.get(url)
+
+    if resposta.status_code == 200:
+        if os.path.exists(caminho_completo):
+            with open("atividade.json", "r", encoding="utf-8") as arquivo:
+                json.dumb("atividade.json", )
 
 
 

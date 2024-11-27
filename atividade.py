@@ -2,6 +2,8 @@ import argparse
 import urllib
 import os
 import json
+import requests
+
 
 diretorio = "C:/Users/bruvieira/Desktop/Nova_pasta/Atividade_Github"
 nome_arquivo = "atividade.json"
@@ -16,6 +18,21 @@ def salva_json():
             atividade = json.load(arquivo)
 
 
+
+def main():
+
+    parser = argparse.ArgumentParser(description="Buscador de atividade GitHub")
+    parser.add_argument("usuario", type=str,help="Nome de usuario que deseja procurar atividade")
+
+    args = parser.parse_args()
+
+
+
+
+
+
+if __name__=="__main__":
+    main()
 
 
 

@@ -7,7 +7,8 @@ diretorio = "C:/Users/bruvieira/Desktop/Nova_pasta/Atividade_Github"
 nome_arquivo = "atividade.json"
 caminho_completo = os.path.join(diretorio, nome_arquivo)
 
-url = "https://api.github.com/users/<username>/events"
+def url(usuario):
+    return f"https://api.github.com/users/{usuario}/events"
 
 def salva_json():
     if os.path.exists(caminho_completo):

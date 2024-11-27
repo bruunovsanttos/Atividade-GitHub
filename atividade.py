@@ -19,7 +19,8 @@ def salva_json():
     if resposta.status_code == 200:
         if os.path.exists(caminho_completo):
             with open("atividade.json", "r", encoding="utf-8") as arquivo:
-                json.dumb("atividade.json", )
+                json.dumb(resposta.json(), arquivo, ensure_ascii=False, indent=4)
+                print(f"A atividade do usuario {usuario} foi salva com sucesso no arquivo {nome_arquivo}")
 
 
 

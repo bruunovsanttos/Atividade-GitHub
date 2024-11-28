@@ -18,11 +18,15 @@ def salva_json():
 
     if resposta.status_code == 200:
         if os.path.exists(caminho_completo):
-            with open("atividade.json", "r", encoding="utf-8") as arquivo:
-                json.dumb(resposta.json(), arquivo, ensure_ascii=False, indent=4)
+            with open(caminho_completo, "w", encoding="utf-8") as arquivo:
+                json.dump(resposta.json(), arquivo, ensure_ascii=False, indent=4)
                 print(f"A atividade do usuario {usuario} foi salva com sucesso no arquivo {nome_arquivo}")
+        else:
+            print(f"Nâo foi possivel encontrar atividade do usuário {usuario}")
 
 
+def exibir_atividade():
+    pass
 
 def main():
 
@@ -31,10 +35,8 @@ def main():
 
     args = parser.parse_args()
 
-
-
-
-
+    salva_json(args.usuario)
+    exibir_atividade()
 
 if __name__=="__main__":
     main()

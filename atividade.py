@@ -26,7 +26,10 @@ def salva_json():
 
 
 def exibir_atividade():
-    pass
+    if os.path.exists(caminho_completo):
+        with open(caminho_completo, "r", encoding="utf-8") as arquivo:
+            atividades = json.load(arquivo)
+            
 
 def main():
 

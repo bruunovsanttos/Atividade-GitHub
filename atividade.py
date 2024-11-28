@@ -29,7 +29,15 @@ def exibir_atividade():
     if os.path.exists(caminho_completo):
         with open(caminho_completo, "r", encoding="utf-8") as arquivo:
             atividades = json.load(arquivo)
-            
+
+            if atividades:
+                for atividade in atividades:
+                    tipo = atividade.get('type')
+                    repo = atividade['repo']['name']
+
+                    if tipo == 'PushEvent':
+                        print(f"Commits feitos no {repo}")
+
 
 def main():
 

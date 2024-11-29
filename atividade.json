@@ -1,0 +1,1174 @@
+[
+    {
+        "id": "44293321646",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21450621027,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "75c8545033e116ed9de06ff5faadd95d0b5e91c7",
+            "before": "e0fc3569878ad7cd57f7be6e7dce0d22210af058",
+            "commits": [
+                {
+                    "sha": "75c8545033e116ed9de06ff5faadd95d0b5e91c7",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(fix)corrigindo bugs encontrados no test por erros de semantica",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/75c8545033e116ed9de06ff5faadd95d0b5e91c7"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-28T16:03:06Z"
+    },
+    {
+        "id": "44292834966",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21450378012,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "e0fc3569878ad7cd57f7be6e7dce0d22210af058",
+            "before": "579c647068073a8df3aa482fcd858ea40b1f56eb",
+            "commits": [
+                {
+                    "sha": "e0fc3569878ad7cd57f7be6e7dce0d22210af058",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(feat)função: implementando função de exibir resultados",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/e0fc3569878ad7cd57f7be6e7dce0d22210af058"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-28T15:47:08Z"
+    },
+    {
+        "id": "44292589473",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21450258227,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "579c647068073a8df3aa482fcd858ea40b1f56eb",
+            "before": "4c5db640f4486064e3b13b385096c0969f4073a1",
+            "commits": [
+                {
+                    "sha": "579c647068073a8df3aa482fcd858ea40b1f56eb",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(feat)função?: escrevendo função de exibir atividades",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/579c647068073a8df3aa482fcd858ea40b1f56eb"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-28T15:39:22Z"
+    },
+    {
+        "id": "44268852659",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21438511373,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "4c5db640f4486064e3b13b385096c0969f4073a1",
+            "before": "2da08057a004b9ce894a5310ac33c27bfc37e5a5",
+            "commits": [
+                {
+                    "sha": "4c5db640f4486064e3b13b385096c0969f4073a1",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunosanttos"
+                    },
+                    "message": "(feat)função: adicionando escopo da função exibir_atividade\n(refactor)salva_json: alterando modo de json",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/4c5db640f4486064e3b13b385096c0969f4073a1"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-28T01:24:43Z"
+    },
+    {
+        "id": "44255484274",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21431736981,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "2da08057a004b9ce894a5310ac33c27bfc37e5a5",
+            "before": "09ddf33ca966a7f94dab7df8e3d145b5d2e0d969",
+            "commits": [
+                {
+                    "sha": "2da08057a004b9ce894a5310ac33c27bfc37e5a5",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(feat)função: ajustando a função de salvar o json",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/2da08057a004b9ce894a5310ac33c27bfc37e5a5"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-27T15:59:29Z"
+    },
+    {
+        "id": "44255214793",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21431610498,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "09ddf33ca966a7f94dab7df8e3d145b5d2e0d969",
+            "before": "bf8d15bc7c2466777351f23287245f17acad5f0e",
+            "commits": [
+                {
+                    "sha": "09ddf33ca966a7f94dab7df8e3d145b5d2e0d969",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(feat)função: ainda implementando a função de salvar json",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/09ddf33ca966a7f94dab7df8e3d145b5d2e0d969"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-27T15:52:14Z"
+    },
+    {
+        "id": "44254729753",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21431379228,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "bf8d15bc7c2466777351f23287245f17acad5f0e",
+            "before": "473004b3aef49b9fe7d2f4b414ea7b51e1a66fbb",
+            "commits": [
+                {
+                    "sha": "bf8d15bc7c2466777351f23287245f17acad5f0e",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(feat)função: adicionando função main e parser para tuilização do programa",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/bf8d15bc7c2466777351f23287245f17acad5f0e"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-27T15:40:00Z"
+    },
+    {
+        "id": "44254449251",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21431261172,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "473004b3aef49b9fe7d2f4b414ea7b51e1a66fbb",
+            "before": "e3f19b59f278e58d197ecec843cb01ec62b9f59e",
+            "commits": [
+                {
+                    "sha": "473004b3aef49b9fe7d2f4b414ea7b51e1a66fbb",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(feat): adicionando função para definir usuario",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/473004b3aef49b9fe7d2f4b414ea7b51e1a66fbb"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-27T15:33:36Z"
+    },
+    {
+        "id": "44253946087",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21431018320,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "e3f19b59f278e58d197ecec843cb01ec62b9f59e",
+            "before": "b60acd22beba99e4073d4e5c2253558d0da79c08",
+            "commits": [
+                {
+                    "sha": "e3f19b59f278e58d197ecec843cb01ec62b9f59e",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": " (feat)função: adicionando função de abrir json",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/e3f19b59f278e58d197ecec843cb01ec62b9f59e"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-27T15:20:30Z"
+    },
+    {
+        "id": "44213874866",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21411413543,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "b60acd22beba99e4073d4e5c2253558d0da79c08",
+            "before": "61d9abc216d3b029280e25ca062f7464563b717c",
+            "commits": [
+                {
+                    "sha": "b60acd22beba99e4073d4e5c2253558d0da79c08",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "caminho absoluto do arquivo para que seja salvo na pasta correta",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/b60acd22beba99e4073d4e5c2253558d0da79c08"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-26T15:49:01Z"
+    },
+    {
+        "id": "44213545051",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21411263184,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "61d9abc216d3b029280e25ca062f7464563b717c",
+            "before": "2f04bdcac17e34bae8819388f90aca2b820aa4f4",
+            "commits": [
+                {
+                    "sha": "61d9abc216d3b029280e25ca062f7464563b717c",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "atualizando bibliotecas utilizadas",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/61d9abc216d3b029280e25ca062f7464563b717c"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-26T15:41:00Z"
+    },
+    {
+        "id": "44213468896",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21411234238,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "2f04bdcac17e34bae8819388f90aca2b820aa4f4",
+            "before": "c4eddc23a75852728b655c869c991d0d1201b73e",
+            "commits": [
+                {
+                    "sha": "2f04bdcac17e34bae8819388f90aca2b820aa4f4",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "inicio do projeto para atividade de git hub recebendo api",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/2f04bdcac17e34bae8819388f90aca2b820aa4f4"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-26T15:39:26Z"
+    },
+    {
+        "id": "44169701563",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21390150487,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "c4eddc23a75852728b655c869c991d0d1201b73e",
+            "before": "b46be3f572c206504229d4b00603db8de46cfa65",
+            "commits": [
+                {
+                    "sha": "c4eddc23a75852728b655c869c991d0d1201b73e",
+                    "author": {
+                        "email": "163612337+bruunovsanttos@users.noreply.github.com",
+                        "name": "Bruno Vieira Santos"
+                    },
+                    "message": "Create LICENSE\n\nCriando licensa MIT para uso open source",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/c4eddc23a75852728b655c869c991d0d1201b73e"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-25T15:08:03Z"
+    },
+    {
+        "id": "44169652829",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-11-25T15:06:50Z"
+    },
+    {
+        "id": "44169584346",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": null,
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-11-25T15:05:09Z"
+    },
+    {
+        "id": "44103227586",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21354208122,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "2974e81edc28a4df5704b6d2ac7d2150ead46d3c",
+            "before": "773162964f1a87a78e89e11ba519e64086b922c2",
+            "commits": [
+                {
+                    "sha": "2974e81edc28a4df5704b6d2ac7d2150ead46d3c",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "correção ortografica",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/2974e81edc28a4df5704b6d2ac7d2150ead46d3c"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-22T15:49:39Z"
+    },
+    {
+        "id": "44102848499",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21354028681,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "773162964f1a87a78e89e11ba519e64086b922c2",
+            "before": "c162a2161a2eb950cd7e400cd7e7ad9ce8af5f3f",
+            "commits": [
+                {
+                    "sha": "773162964f1a87a78e89e11ba519e64086b922c2",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustes readme",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/773162964f1a87a78e89e11ba519e64086b922c2"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-22T15:38:26Z"
+    },
+    {
+        "id": "44102790826",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21354005018,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "c162a2161a2eb950cd7e400cd7e7ad9ce8af5f3f",
+            "before": "76c1df7a9bf458406a1ed84a3661f86d9d2cb9fe",
+            "commits": [
+                {
+                    "sha": "c162a2161a2eb950cd7e400cd7e7ad9ce8af5f3f",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustes de readme",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/c162a2161a2eb950cd7e400cd7e7ad9ce8af5f3f"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-22T15:36:59Z"
+    },
+    {
+        "id": "44064126193",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21334999647,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "76c1df7a9bf458406a1ed84a3661f86d9d2cb9fe",
+            "before": "9cd2dd50de6c686fc2e8be15279976f8afc7e5e9",
+            "commits": [
+                {
+                    "sha": "76c1df7a9bf458406a1ed84a3661f86d9d2cb9fe",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "Mudança de url da roadmap sh",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/76c1df7a9bf458406a1ed84a3661f86d9d2cb9fe"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-21T15:57:36Z"
+    },
+    {
+        "id": "44063645765",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21334776894,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "9cd2dd50de6c686fc2e8be15279976f8afc7e5e9",
+            "before": "e222f32a6f870b9e64b32868d6d0e2e7fa696d20",
+            "commits": [
+                {
+                    "sha": "9cd2dd50de6c686fc2e8be15279976f8afc7e5e9",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustando pastas do projeto coloando imagens em uma pasta separada, e ajustes de read me para imagens",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/9cd2dd50de6c686fc2e8be15279976f8afc7e5e9"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-21T15:45:42Z"
+    },
+    {
+        "id": "44063492031",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21334704125,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "e222f32a6f870b9e64b32868d6d0e2e7fa696d20",
+            "before": "55dd94f0c487782aed0fea874b63114e2cd6e252",
+            "commits": [
+                {
+                    "sha": "e222f32a6f870b9e64b32868d6d0e2e7fa696d20",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustando readme para entrega do projeto",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/e222f32a6f870b9e64b32868d6d0e2e7fa696d20"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-21T15:41:49Z"
+    },
+    {
+        "id": "44023457102",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21315121958,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "55dd94f0c487782aed0fea874b63114e2cd6e252",
+            "before": "9dc11a06f2728b355698345b9471297462c780e2",
+            "commits": [
+                {
+                    "sha": "55dd94f0c487782aed0fea874b63114e2cd6e252",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "readme",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/55dd94f0c487782aed0fea874b63114e2cd6e252"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-20T16:29:04Z"
+    },
+    {
+        "id": "44023130623",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21314965992,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "9dc11a06f2728b355698345b9471297462c780e2",
+            "before": "159719f2b6ea42fa469445a96f2521cf96d866fe",
+            "commits": [
+                {
+                    "sha": "9dc11a06f2728b355698345b9471297462c780e2",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "atualizando readme",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/9dc11a06f2728b355698345b9471297462c780e2"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-20T16:20:26Z"
+    },
+    {
+        "id": "44022937429",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21314872534,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "159719f2b6ea42fa469445a96f2521cf96d866fe",
+            "before": "ed0b42375aacf93328fdb22361d0a0d9704d8aec",
+            "commits": [
+                {
+                    "sha": "159719f2b6ea42fa469445a96f2521cf96d866fe",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustes no readme",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/159719f2b6ea42fa469445a96f2521cf96d866fe"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-20T16:15:20Z"
+    },
+    {
+        "id": "44022704549",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21314759525,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "ed0b42375aacf93328fdb22361d0a0d9704d8aec",
+            "before": "924f989790a1ea1a317d6c20745fbf56f687b47a",
+            "commits": [
+                {
+                    "sha": "ed0b42375aacf93328fdb22361d0a0d9704d8aec",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustestes finais de correção para não aceitar valores negativos. E adiçao de readme mais completo",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/ed0b42375aacf93328fdb22361d0a0d9704d8aec"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-20T16:09:14Z"
+    },
+    {
+        "id": "44021493520",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21314166193,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "924f989790a1ea1a317d6c20745fbf56f687b47a",
+            "before": "ec8b8a3494cefe4db3f72faab10d23f422e1c515",
+            "commits": [
+                {
+                    "sha": "924f989790a1ea1a317d6c20745fbf56f687b47a",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustando metodo de verificação de valor negativo",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/924f989790a1ea1a317d6c20745fbf56f687b47a"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-20T15:39:22Z"
+    },
+    {
+        "id": "44020334697",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21313549894,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "ec8b8a3494cefe4db3f72faab10d23f422e1c515",
+            "before": "8645940d877a59ec34041766e77a629e3979c7ef",
+            "commits": [
+                {
+                    "sha": "ec8b8a3494cefe4db3f72faab10d23f422e1c515",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunosanttos"
+                    },
+                    "message": ".",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/ec8b8a3494cefe4db3f72faab10d23f422e1c515"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-20T15:14:42Z"
+    },
+    {
+        "id": "43980243432",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21294100214,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "8645940d877a59ec34041766e77a629e3979c7ef",
+            "before": "012cff6bc99304662b6f7bf20f8e16ef04b1253d",
+            "commits": [
+                {
+                    "sha": "8645940d877a59ec34041766e77a629e3979c7ef",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "adicionando imagens de teste unitario",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/8645940d877a59ec34041766e77a629e3979c7ef"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-19T16:00:49Z"
+    },
+    {
+        "id": "43979450030",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21293698592,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "012cff6bc99304662b6f7bf20f8e16ef04b1253d",
+            "before": "e62eb324a0fee4988d160e45dd0b90f320bdfd4a",
+            "commits": [
+                {
+                    "sha": "012cff6bc99304662b6f7bf20f8e16ef04b1253d",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustando definição de orçamento para colocar mensagem de orçamento atual antes da alteração",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/012cff6bc99304662b6f7bf20f8e16ef04b1253d"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-19T15:42:32Z"
+    },
+    {
+        "id": "43937165069",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 877982675,
+            "name": "bruunovsanttos/Rastreador_de_Despesas",
+            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+        },
+        "payload": {
+            "repository_id": 877982675,
+            "push_id": 21273260706,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "e62eb324a0fee4988d160e45dd0b90f320bdfd4a",
+            "before": "3cef0a4f21a6f722307025cce87e1e7f9734bfa4",
+            "commits": [
+                {
+                    "sha": "e62eb324a0fee4988d160e45dd0b90f320bdfd4a",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "ajustando readme",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/e62eb324a0fee4988d160e45dd0b90f320bdfd4a"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-18T15:56:01Z"
+    }
+]

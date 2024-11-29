@@ -13,16 +13,25 @@ def url_requerida(usuario):
 
 def salva_json(usuario):
     url = url_requerida(usuario)
-    
-    resposta = requests.get(url)
+    try:
 
-    if resposta.status_code == 200:
-        if os.path.exists(caminho_completo):
-            with open(caminho_completo, "w", encoding="utf-8") as arquivo:
-                json.dump(resposta.json(), arquivo, ensure_ascii=False, indent=4)
-                print(f"A atividade do usuario {usuario} foi salva com sucesso no arquivo {nome_arquivo}")
+        resposta = requests.get(url)
+
+        if resposta.status_code == 200:
+            if os.path.exists(caminho_completo):
+                with open(caminho_completo, "w", encoding="utf-8") as arquivo:
+                    json.dump(resposta.json(), arquivo, ensure_ascii=False, indent=4)
+                    print(f"A atividade do usuario {usuario} foi salva com sucesso no arquivo {nome_arquivo}")
+            else:
+                print(f"Não foi possivel encontrar atividade do usuário {usuario}")
+
+        elif resposta.status_code == 404:
+            print(f"Erro: usuário {usuario} não encontrado")
         else:
-            print(f"Nâo foi possivel encontrar atividade do usuário {usuario}")
+            print(f"Erro ao buscar atividade do usuário {usuario}. Status code {resposta.status_code}")
+
+    except requests.exceptions.RequestException as e:
+        print(f"Erro de conexão com a API: {e}")
 
 
 def exibir_atividade():

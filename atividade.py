@@ -73,16 +73,26 @@ def exibir_atividade():
             if atividades:
                 print("\n Atividades Recentes: ")
                 for atividade in atividades[:5]:
-                    tipo = atividade.get('type')
-                    repo = atividade['repo']['name']
+                    tipo = atividade['type']
+                    repositorio = atividade['repo']['name']
 
                     if tipo == 'PushEvent':
-                        commits = atividade.get('payload', {}).get('commits', [])#.get('message', ['message'])
-                        for commit in commits :
-                            menssagem = commit.get('message')
-                        print(f"Enviados {len(commits)} Commits feitos no repositório: {repo}.\n Menssagem do commit: {menssagem}")
+                        commits = atividade['payload']['commits']
+                        for commit in commits:
+                            menssagem = commit['message']
+                        print(f"Enviados {len(commits)} Commits feitos no repositório: {repositorio}.\n Menssagem do commit: {menssagem}")
 
-                    #elif tipo == ''
+                    elif tipo == 'IssueCommentEvent':
+                        issue_acao = atividade['payload']['action']
+                        nome = atividade['payload']['issue']['title']
+                        print(f"Issue {issue_acao}: {nome} no repositório {repositorio}")
+
+                    elif tipo == 'WatchEvent':
+                        print(f"O repositório {repositorio} foi estrelado.")
+
+                    elif tipo == 'ForkEvent':
+                        print(f"O repositório {repositorio} foi forkado")
+
 
 
 def main():

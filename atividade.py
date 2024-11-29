@@ -77,8 +77,12 @@ def exibir_atividade():
                     repo = atividade['repo']['name']
 
                     if tipo == 'PushEvent':
-                        commits = atividade.get('payload', {}).get('commits', [])
-                        print(f"Enviados {len(commits)} Commits feitos no {repo}")
+                        commits = atividade.get('payload', {}).get('commits', [])#.get('message', ['message'])
+                        for commit in commits :
+                            menssagem = commit.get('message')
+                        print(f"Enviados {len(commits)} Commits feitos no repositório: {repo}.\n Menssagem do commit: {menssagem}")
+
+                    #elif tipo == ''
 
 
 def main():

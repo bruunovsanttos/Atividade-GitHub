@@ -1,5 +1,85 @@
 [
     {
+        "id": "44323971959",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21466322348,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "45e4179d7d842406604863cba7735ef7e6b9e094",
+            "before": "30c35850396a9c3ab216f9e48fda71ccccad4c28",
+            "commits": [
+                {
+                    "sha": "45e4179d7d842406604863cba7735ef7e6b9e094",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(fix)função: ajustando função salvajsonpara atuar corretamente",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/45e4179d7d842406604863cba7735ef7e6b9e094"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-29T15:53:05Z"
+    },
+    {
+        "id": "44323383405",
+        "type": "PushEvent",
+        "actor": {
+            "id": 163612337,
+            "login": "bruunovsanttos",
+            "display_login": "bruunovsanttos",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/bruunovsanttos",
+            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+        },
+        "repo": {
+            "id": 893992410,
+            "name": "bruunovsanttos/Atividade-GitHub",
+            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+        },
+        "payload": {
+            "repository_id": 893992410,
+            "push_id": 21466044204,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "30c35850396a9c3ab216f9e48fda71ccccad4c28",
+            "before": "75c8545033e116ed9de06ff5faadd95d0b5e91c7",
+            "commits": [
+                {
+                    "sha": "30c35850396a9c3ab216f9e48fda71ccccad4c28",
+                    "author": {
+                        "email": "bruno-vieira-santos@hotmail.com",
+                        "name": "bruunovsanttos"
+                    },
+                    "message": "(feat)função: adicionando try except na função de salva json",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/30c35850396a9c3ab216f9e48fda71ccccad4c28"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-11-29T15:31:46Z"
+    },
+    {
         "id": "44293321646",
         "type": "PushEvent",
         "actor": {
@@ -1090,85 +1170,5 @@
         },
         "public": true,
         "created_at": "2024-11-19T16:00:49Z"
-    },
-    {
-        "id": "43979450030",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
-        },
-        "payload": {
-            "repository_id": 877982675,
-            "push_id": 21293698592,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "012cff6bc99304662b6f7bf20f8e16ef04b1253d",
-            "before": "e62eb324a0fee4988d160e45dd0b90f320bdfd4a",
-            "commits": [
-                {
-                    "sha": "012cff6bc99304662b6f7bf20f8e16ef04b1253d",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "ajustando definição de orçamento para colocar mensagem de orçamento atual antes da alteração",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/012cff6bc99304662b6f7bf20f8e16ef04b1253d"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-19T15:42:32Z"
-    },
-    {
-        "id": "43937165069",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
-        },
-        "payload": {
-            "repository_id": 877982675,
-            "push_id": 21273260706,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "e62eb324a0fee4988d160e45dd0b90f320bdfd4a",
-            "before": "3cef0a4f21a6f722307025cce87e1e7f9734bfa4",
-            "commits": [
-                {
-                    "sha": "e62eb324a0fee4988d160e45dd0b90f320bdfd4a",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "ajustando readme",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/e62eb324a0fee4988d160e45dd0b90f320bdfd4a"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-18T15:56:01Z"
     }
 ]

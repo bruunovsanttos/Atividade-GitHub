@@ -1,1174 +1,868 @@
 [
     {
-        "id": "44323971959",
+        "id": "44052420183",
         "type": "PushEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+            "id": 882807729,
+            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
         },
         "payload": {
-            "repository_id": 893992410,
-            "push_id": 21466322348,
+            "repository_id": 882807729,
+            "push_id": 21329406731,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "45e4179d7d842406604863cba7735ef7e6b9e094",
-            "before": "30c35850396a9c3ab216f9e48fda71ccccad4c28",
+            "head": "1cb96af4c9853c4a2a4c0620a9b99705eb03123b",
+            "before": "59d46af46b80d82af7183593666c9d29c2ade635",
             "commits": [
                 {
-                    "sha": "45e4179d7d842406604863cba7735ef7e6b9e094",
+                    "sha": "1cb96af4c9853c4a2a4c0620a9b99705eb03123b",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "(fix)função: ajustando função salvajsonpara atuar corretamente",
+                    "message": "Update extract_and_save_data.ipynb",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/45e4179d7d842406604863cba7735ef7e6b9e094"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL/commits/1cb96af4c9853c4a2a4c0620a9b99705eb03123b"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-29T15:53:05Z"
+        "created_at": "2024-11-21T11:00:35Z"
     },
     {
-        "id": "44323383405",
+        "id": "44052261559",
         "type": "PushEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+            "id": 882807729,
+            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
         },
         "payload": {
-            "repository_id": 893992410,
-            "push_id": 21466044204,
+            "repository_id": 882807729,
+            "push_id": 21329328795,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "30c35850396a9c3ab216f9e48fda71ccccad4c28",
-            "before": "75c8545033e116ed9de06ff5faadd95d0b5e91c7",
+            "head": "59d46af46b80d82af7183593666c9d29c2ade635",
+            "before": "9b63d832863b0ccc21c5bc90e25da4db8889b917",
             "commits": [
                 {
-                    "sha": "30c35850396a9c3ab216f9e48fda71ccccad4c28",
+                    "sha": "59d46af46b80d82af7183593666c9d29c2ade635",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "gustavohqpasciano@gmail.com",
+                        "name": "Gustavo-Pasciano93"
                     },
-                    "message": "(feat)função: adicionando try except na função de salva json",
+                    "message": "Corrige erro no notebook extract_and_save_data.ipynb",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/30c35850396a9c3ab216f9e48fda71ccccad4c28"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL/commits/59d46af46b80d82af7183593666c9d29c2ade635"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-29T15:31:46Z"
+        "created_at": "2024-11-21T10:56:07Z"
     },
     {
-        "id": "44293321646",
+        "id": "44051979936",
         "type": "PushEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+            "id": 882807729,
+            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
         },
         "payload": {
-            "repository_id": 893992410,
-            "push_id": 21450621027,
+            "repository_id": 882807729,
+            "push_id": 21329192106,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "75c8545033e116ed9de06ff5faadd95d0b5e91c7",
-            "before": "e0fc3569878ad7cd57f7be6e7dce0d22210af058",
+            "head": "9b63d832863b0ccc21c5bc90e25da4db8889b917",
+            "before": "925c0998fdb0a08ad2be21d210a527a3e1df3fc9",
             "commits": [
                 {
-                    "sha": "75c8545033e116ed9de06ff5faadd95d0b5e91c7",
+                    "sha": "9b63d832863b0ccc21c5bc90e25da4db8889b917",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "(fix)corrigindo bugs encontrados no test por erros de semantica",
+                    "message": "Update extract_and_save_data.ipynb",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/75c8545033e116ed9de06ff5faadd95d0b5e91c7"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL/commits/9b63d832863b0ccc21c5bc90e25da4db8889b917"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-28T16:03:06Z"
+        "created_at": "2024-11-21T10:48:13Z"
     },
     {
-        "id": "44292834966",
+        "id": "44033335879",
         "type": "PushEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+            "id": 891739236,
+            "name": "Gustavo-Pasciano93/sales_dw_project",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sales_dw_project"
         },
         "payload": {
-            "repository_id": 893992410,
-            "push_id": 21450378012,
+            "repository_id": 891739236,
+            "push_id": 21319933729,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "e0fc3569878ad7cd57f7be6e7dce0d22210af058",
-            "before": "579c647068073a8df3aa482fcd858ea40b1f56eb",
+            "head": "6b86343deed6ae13302475db283109757e7b89a6",
+            "before": "5b24936d60e408e1737256c0d0ee788a92fc2abf",
             "commits": [
                 {
-                    "sha": "e0fc3569878ad7cd57f7be6e7dce0d22210af058",
+                    "sha": "6b86343deed6ae13302475db283109757e7b89a6",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "(feat)função: implementando função de exibir resultados",
+                    "message": "Create README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/e0fc3569878ad7cd57f7be6e7dce0d22210af058"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/sales_dw_project/commits/6b86343deed6ae13302475db283109757e7b89a6"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-28T15:47:08Z"
+        "created_at": "2024-11-20T22:00:30Z"
     },
     {
-        "id": "44292589473",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21450258227,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "579c647068073a8df3aa482fcd858ea40b1f56eb",
-            "before": "4c5db640f4486064e3b13b385096c0969f4073a1",
-            "commits": [
-                {
-                    "sha": "579c647068073a8df3aa482fcd858ea40b1f56eb",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "(feat)função?: escrevendo função de exibir atividades",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/579c647068073a8df3aa482fcd858ea40b1f56eb"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-28T15:39:22Z"
-    },
-    {
-        "id": "44268852659",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21438511373,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "4c5db640f4486064e3b13b385096c0969f4073a1",
-            "before": "2da08057a004b9ce894a5310ac33c27bfc37e5a5",
-            "commits": [
-                {
-                    "sha": "4c5db640f4486064e3b13b385096c0969f4073a1",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunosanttos"
-                    },
-                    "message": "(feat)função: adicionando escopo da função exibir_atividade\n(refactor)salva_json: alterando modo de json",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/4c5db640f4486064e3b13b385096c0969f4073a1"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-28T01:24:43Z"
-    },
-    {
-        "id": "44255484274",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21431736981,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "2da08057a004b9ce894a5310ac33c27bfc37e5a5",
-            "before": "09ddf33ca966a7f94dab7df8e3d145b5d2e0d969",
-            "commits": [
-                {
-                    "sha": "2da08057a004b9ce894a5310ac33c27bfc37e5a5",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "(feat)função: ajustando a função de salvar o json",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/2da08057a004b9ce894a5310ac33c27bfc37e5a5"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-27T15:59:29Z"
-    },
-    {
-        "id": "44255214793",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21431610498,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "09ddf33ca966a7f94dab7df8e3d145b5d2e0d969",
-            "before": "bf8d15bc7c2466777351f23287245f17acad5f0e",
-            "commits": [
-                {
-                    "sha": "09ddf33ca966a7f94dab7df8e3d145b5d2e0d969",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "(feat)função: ainda implementando a função de salvar json",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/09ddf33ca966a7f94dab7df8e3d145b5d2e0d969"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-27T15:52:14Z"
-    },
-    {
-        "id": "44254729753",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21431379228,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "bf8d15bc7c2466777351f23287245f17acad5f0e",
-            "before": "473004b3aef49b9fe7d2f4b414ea7b51e1a66fbb",
-            "commits": [
-                {
-                    "sha": "bf8d15bc7c2466777351f23287245f17acad5f0e",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "(feat)função: adicionando função main e parser para tuilização do programa",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/bf8d15bc7c2466777351f23287245f17acad5f0e"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-27T15:40:00Z"
-    },
-    {
-        "id": "44254449251",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21431261172,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "473004b3aef49b9fe7d2f4b414ea7b51e1a66fbb",
-            "before": "e3f19b59f278e58d197ecec843cb01ec62b9f59e",
-            "commits": [
-                {
-                    "sha": "473004b3aef49b9fe7d2f4b414ea7b51e1a66fbb",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "(feat): adicionando função para definir usuario",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/473004b3aef49b9fe7d2f4b414ea7b51e1a66fbb"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-27T15:33:36Z"
-    },
-    {
-        "id": "44253946087",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21431018320,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "e3f19b59f278e58d197ecec843cb01ec62b9f59e",
-            "before": "b60acd22beba99e4073d4e5c2253558d0da79c08",
-            "commits": [
-                {
-                    "sha": "e3f19b59f278e58d197ecec843cb01ec62b9f59e",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": " (feat)função: adicionando função de abrir json",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/e3f19b59f278e58d197ecec843cb01ec62b9f59e"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-27T15:20:30Z"
-    },
-    {
-        "id": "44213874866",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21411413543,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "b60acd22beba99e4073d4e5c2253558d0da79c08",
-            "before": "61d9abc216d3b029280e25ca062f7464563b717c",
-            "commits": [
-                {
-                    "sha": "b60acd22beba99e4073d4e5c2253558d0da79c08",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "caminho absoluto do arquivo para que seja salvo na pasta correta",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/b60acd22beba99e4073d4e5c2253558d0da79c08"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-26T15:49:01Z"
-    },
-    {
-        "id": "44213545051",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21411263184,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "61d9abc216d3b029280e25ca062f7464563b717c",
-            "before": "2f04bdcac17e34bae8819388f90aca2b820aa4f4",
-            "commits": [
-                {
-                    "sha": "61d9abc216d3b029280e25ca062f7464563b717c",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "atualizando bibliotecas utilizadas",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/61d9abc216d3b029280e25ca062f7464563b717c"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-26T15:41:00Z"
-    },
-    {
-        "id": "44213468896",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21411234238,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "2f04bdcac17e34bae8819388f90aca2b820aa4f4",
-            "before": "c4eddc23a75852728b655c869c991d0d1201b73e",
-            "commits": [
-                {
-                    "sha": "2f04bdcac17e34bae8819388f90aca2b820aa4f4",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "inicio do projeto para atividade de git hub recebendo api",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/2f04bdcac17e34bae8819388f90aca2b820aa4f4"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-26T15:39:26Z"
-    },
-    {
-        "id": "44169701563",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
-        },
-        "payload": {
-            "repository_id": 893992410,
-            "push_id": 21390150487,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "c4eddc23a75852728b655c869c991d0d1201b73e",
-            "before": "b46be3f572c206504229d4b00603db8de46cfa65",
-            "commits": [
-                {
-                    "sha": "c4eddc23a75852728b655c869c991d0d1201b73e",
-                    "author": {
-                        "email": "163612337+bruunovsanttos@users.noreply.github.com",
-                        "name": "Bruno Vieira Santos"
-                    },
-                    "message": "Create LICENSE\n\nCriando licensa MIT para uso open source",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub/commits/c4eddc23a75852728b655c869c991d0d1201b73e"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-25T15:08:03Z"
-    },
-    {
-        "id": "44169652829",
+        "id": "44033256042",
         "type": "CreateEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+            "id": 891739236,
+            "name": "Gustavo-Pasciano93/sales_dw_project",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sales_dw_project"
         },
         "payload": {
             "ref": "main",
             "ref_type": "branch",
             "master_branch": "main",
-            "description": null,
+            "description": "Data Warehouse de Vendas construído no SQL Server com modelagem no SQL Power Architect. O projeto inclui dimensões de Tempo, Produto, Cliente e Campanha, além de uma Tabela Fato Vendas para análises avançadas. Contém scripts de criação, inserção de dados fictícios e consultas SQL para exploração dos dados.",
             "pusher_type": "user"
         },
         "public": true,
-        "created_at": "2024-11-25T15:06:50Z"
+        "created_at": "2024-11-20T21:57:08Z"
     },
     {
-        "id": "44169584346",
+        "id": "44032924294",
         "type": "CreateEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 893992410,
-            "name": "bruunovsanttos/Atividade-GitHub",
-            "url": "https://api.github.com/repos/bruunovsanttos/Atividade-GitHub"
+            "id": 891739236,
+            "name": "Gustavo-Pasciano93/sales_dw_project",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sales_dw_project"
         },
         "payload": {
             "ref": null,
             "ref_type": "repository",
             "master_branch": "main",
-            "description": null,
+            "description": "Data Warehouse de Vendas construído no SQL Server com modelagem no SQL Power Architect. O projeto inclui dimensões de Tempo, Produto, Cliente e Campanha, além de uma Tabela Fato Vendas para análises avançadas. Contém scripts de criação, inserção de dados fictícios e consultas SQL para exploração dos dados.",
             "pusher_type": "user"
         },
         "public": true,
-        "created_at": "2024-11-25T15:05:09Z"
+        "created_at": "2024-11-20T21:43:27Z"
     },
     {
-        "id": "44103227586",
+        "id": "43678183440",
         "type": "PushEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+            "id": 736030199,
+            "name": "Gustavo-Pasciano93/Gustavo-Pasciano93",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93"
         },
         "payload": {
-            "repository_id": 877982675,
-            "push_id": 21354208122,
+            "repository_id": 736030199,
+            "push_id": 21140594290,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "2974e81edc28a4df5704b6d2ac7d2150ead46d3c",
-            "before": "773162964f1a87a78e89e11ba519e64086b922c2",
+            "head": "2ed926e4749762ec5fb2ba61a37aad90dd209700",
+            "before": "9d9449496b003d9a97d264b80e7d7a0531afac01",
             "commits": [
                 {
-                    "sha": "2974e81edc28a4df5704b6d2ac7d2150ead46d3c",
+                    "sha": "2ed926e4749762ec5fb2ba61a37aad90dd209700",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "correção ortografica",
+                    "message": "Update README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/2974e81edc28a4df5704b6d2ac7d2150ead46d3c"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93/commits/2ed926e4749762ec5fb2ba61a37aad90dd209700"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-22T15:49:39Z"
+        "created_at": "2024-11-10T15:45:04Z"
     },
     {
-        "id": "44102848499",
+        "id": "43678140728",
         "type": "PushEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+            "id": 736030199,
+            "name": "Gustavo-Pasciano93/Gustavo-Pasciano93",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93"
         },
         "payload": {
-            "repository_id": 877982675,
-            "push_id": 21354028681,
+            "repository_id": 736030199,
+            "push_id": 21140566987,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "773162964f1a87a78e89e11ba519e64086b922c2",
-            "before": "c162a2161a2eb950cd7e400cd7e7ad9ce8af5f3f",
+            "head": "9d9449496b003d9a97d264b80e7d7a0531afac01",
+            "before": "35e23a950f82f70c4d116ee622bf7d9391f16af5",
             "commits": [
                 {
-                    "sha": "773162964f1a87a78e89e11ba519e64086b922c2",
+                    "sha": "9d9449496b003d9a97d264b80e7d7a0531afac01",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "ajustes readme",
+                    "message": "Update README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/773162964f1a87a78e89e11ba519e64086b922c2"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93/commits/9d9449496b003d9a97d264b80e7d7a0531afac01"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-22T15:38:26Z"
+        "created_at": "2024-11-10T15:41:03Z"
     },
     {
-        "id": "44102790826",
+        "id": "43460048177",
         "type": "PushEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+            "id": 882807729,
+            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
         },
         "payload": {
-            "repository_id": 877982675,
-            "push_id": 21354005018,
+            "repository_id": 882807729,
+            "push_id": 21028616771,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "c162a2161a2eb950cd7e400cd7e7ad9ce8af5f3f",
-            "before": "76c1df7a9bf458406a1ed84a3661f86d9d2cb9fe",
+            "head": "925c0998fdb0a08ad2be21d210a527a3e1df3fc9",
+            "before": "c9df6285f4ae13eca5c30b0a0e6532a4077cd3e7",
             "commits": [
                 {
-                    "sha": "c162a2161a2eb950cd7e400cd7e7ad9ce8af5f3f",
+                    "sha": "925c0998fdb0a08ad2be21d210a527a3e1df3fc9",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "ajustes de readme",
+                    "message": "Create README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/c162a2161a2eb950cd7e400cd7e7ad9ce8af5f3f"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL/commits/925c0998fdb0a08ad2be21d210a527a3e1df3fc9"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-22T15:36:59Z"
+        "created_at": "2024-11-03T20:22:23Z"
     },
     {
-        "id": "44064126193",
-        "type": "PushEvent",
+        "id": "43459929818",
+        "type": "CreateEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+            "id": 882807729,
+            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
         },
         "payload": {
-            "repository_id": 877982675,
-            "push_id": 21334999647,
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "Este repositório contém um projeto ETL (Extract, Transform, Load) em Python. Os dados são extraídos de uma API pública, armazenados em um banco de dados MongoDB e transformados antes de serem carregados em uma tabela MySQL. Um ótimo exemplo para quem deseja aprender sobre manipulação de dados e integração entre diferentes bancos de dados.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-11-03T20:11:00Z"
+    },
+    {
+        "id": "43459912773",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 882807729,
+            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "Este repositório contém um projeto ETL (Extract, Transform, Load) em Python. Os dados são extraídos de uma API pública, armazenados em um banco de dados MongoDB e transformados antes de serem carregados em uma tabela MySQL. Um ótimo exemplo para quem deseja aprender sobre manipulação de dados e integração entre diferentes bancos de dados.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-11-03T20:09:19Z"
+    },
+    {
+        "id": "43459869416",
+        "type": "PushEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 736030199,
+            "name": "Gustavo-Pasciano93/Gustavo-Pasciano93",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93"
+        },
+        "payload": {
+            "repository_id": 736030199,
+            "push_id": 21028491815,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "76c1df7a9bf458406a1ed84a3661f86d9d2cb9fe",
-            "before": "9cd2dd50de6c686fc2e8be15279976f8afc7e5e9",
+            "head": "35e23a950f82f70c4d116ee622bf7d9391f16af5",
+            "before": "4fbbcbde8cc58b32effff68f15700a895299a1ff",
             "commits": [
                 {
-                    "sha": "76c1df7a9bf458406a1ed84a3661f86d9d2cb9fe",
+                    "sha": "35e23a950f82f70c4d116ee622bf7d9391f16af5",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "Mudança de url da roadmap sh",
+                    "message": "Update README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/76c1df7a9bf458406a1ed84a3661f86d9d2cb9fe"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93/commits/35e23a950f82f70c4d116ee622bf7d9391f16af5"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-21T15:57:36Z"
+        "created_at": "2024-11-03T20:04:48Z"
     },
     {
-        "id": "44063645765",
+        "id": "42585064827",
         "type": "PushEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+            "id": 868608144,
+            "name": "Gustavo-Pasciano93/sql-loja-virtual",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sql-loja-virtual"
         },
         "payload": {
-            "repository_id": 877982675,
-            "push_id": 21334776894,
+            "repository_id": 868608144,
+            "push_id": 20578405317,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "9cd2dd50de6c686fc2e8be15279976f8afc7e5e9",
-            "before": "e222f32a6f870b9e64b32868d6d0e2e7fa696d20",
+            "head": "d17eaf3e559e648e3cf3fae86bcdaaf5bccba5fe",
+            "before": "8c77b7991ade94599c5476500654dd786a91498e",
             "commits": [
                 {
-                    "sha": "9cd2dd50de6c686fc2e8be15279976f8afc7e5e9",
+                    "sha": "d17eaf3e559e648e3cf3fae86bcdaaf5bccba5fe",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "ajustando pastas do projeto coloando imagens em uma pasta separada, e ajustes de read me para imagens",
+                    "message": "Create README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/9cd2dd50de6c686fc2e8be15279976f8afc7e5e9"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/sql-loja-virtual/commits/d17eaf3e559e648e3cf3fae86bcdaaf5bccba5fe"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-21T15:45:42Z"
+        "created_at": "2024-10-06T20:09:57Z"
     },
     {
-        "id": "44063492031",
-        "type": "PushEvent",
+        "id": "42585059602",
+        "type": "CreateEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+            "id": 868608144,
+            "name": "Gustavo-Pasciano93/sql-loja-virtual",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sql-loja-virtual"
         },
         "payload": {
-            "repository_id": 877982675,
-            "push_id": 21334704125,
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "Projeto de SQL Server para gerenciamento de uma loja virtual.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-10-06T20:09:23Z"
+    },
+    {
+        "id": "42585032262",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 868608144,
+            "name": "Gustavo-Pasciano93/sql-loja-virtual",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sql-loja-virtual"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "Projeto de SQL Server para gerenciamento de uma loja virtual.",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-10-06T20:06:22Z"
+    },
+    {
+        "id": "42370720731",
+        "type": "PushEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 864909475,
+            "name": "Gustavo-Pasciano93/moedas-paises",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises"
+        },
+        "payload": {
+            "repository_id": 864909475,
+            "push_id": 20466409267,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "e222f32a6f870b9e64b32868d6d0e2e7fa696d20",
-            "before": "55dd94f0c487782aed0fea874b63114e2cd6e252",
+            "head": "915dfc26af00e66cee359a37d265b090ee9351f3",
+            "before": "a3b4c6688d5aa01842212ef31e8c259ed5a24560",
             "commits": [
                 {
-                    "sha": "e222f32a6f870b9e64b32868d6d0e2e7fa696d20",
+                    "sha": "915dfc26af00e66cee359a37d265b090ee9351f3",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "ajustando readme para entrega do projeto",
+                    "message": "Create README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/e222f32a6f870b9e64b32868d6d0e2e7fa696d20"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises/commits/915dfc26af00e66cee359a37d265b090ee9351f3"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-21T15:41:49Z"
+        "created_at": "2024-09-29T14:00:30Z"
     },
     {
-        "id": "44023457102",
-        "type": "PushEvent",
+        "id": "42370655738",
+        "type": "CreateEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+            "id": 864909475,
+            "name": "Gustavo-Pasciano93/moedas-paises",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises"
         },
         "payload": {
-            "repository_id": 877982675,
-            "push_id": 21315121958,
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "ETL com uso de API para gerar um DataFrame",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-09-29T13:53:42Z"
+    },
+    {
+        "id": "42370609117",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 864909475,
+            "name": "Gustavo-Pasciano93/moedas-paises",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "ETL com uso de API para gerar um DataFrame",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-09-29T13:49:15Z"
+    },
+    {
+        "id": "42361678711",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 864661949,
+            "name": "Gustavo-Pasciano93/moedas-paises-lingua-portuguesa",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises-lingua-portuguesa"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "Repositório com todos os paises de lingua portuguesa e suas devidas moedas, gerado por API",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-09-28T20:27:16Z"
+    },
+    {
+        "id": "42361621559",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 864661949,
+            "name": "Gustavo-Pasciano93/moedas-paises-lingua-portuguesa",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises-lingua-portuguesa"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "Repositório com todos os paises de lingua portuguesa e suas devidas moedas, gerado por API",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-09-28T20:20:11Z"
+    },
+    {
+        "id": "42233741372",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 862570581,
+            "name": "Gustavo-Pasciano93/linguagens-utilizadas",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/linguagens-utilizadas"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "Repositório com linguagens usadas pela Amazon",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-09-24T20:55:29Z"
+    },
+    {
+        "id": "42232988964",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 862570581,
+            "name": "Gustavo-Pasciano93/linguagens-utilizadas",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/linguagens-utilizadas"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "Repositório com linguagens usadas pela Amazon",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-09-24T20:27:01Z"
+    },
+    {
+        "id": "42154541449",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 861331171,
+            "name": "Gustavo-Pasciano93/Pipeline-de-Dados",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-09-22T16:13:58Z"
+    },
+    {
+        "id": "42154533358",
+        "type": "PushEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 861331171,
+            "name": "Gustavo-Pasciano93/Pipeline-de-Dados",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados"
+        },
+        "payload": {
+            "repository_id": 861331171,
+            "push_id": 20355106527,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "55dd94f0c487782aed0fea874b63114e2cd6e252",
-            "before": "9dc11a06f2728b355698345b9471297462c780e2",
+            "head": "72e99f869902be962cd4b6d5e16e20336039906e",
+            "before": "06038d99889d88825cae36844f612e3e13f740f2",
             "commits": [
                 {
-                    "sha": "55dd94f0c487782aed0fea874b63114e2cd6e252",
+                    "sha": "72e99f869902be962cd4b6d5e16e20336039906e",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "readme",
+                    "message": "Create README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/55dd94f0c487782aed0fea874b63114e2cd6e252"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados/commits/72e99f869902be962cd4b6d5e16e20336039906e"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-20T16:29:04Z"
+        "created_at": "2024-09-22T16:13:07Z"
     },
     {
-        "id": "44023130623",
-        "type": "PushEvent",
+        "id": "42154442607",
+        "type": "CreateEvent",
         "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
         },
         "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
+            "id": 861331171,
+            "name": "Gustavo-Pasciano93/Pipeline-de-Dados",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados"
         },
         "payload": {
-            "repository_id": 877982675,
-            "push_id": 21314965992,
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "projeto de um ETL em python",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-09-22T16:04:04Z"
+    },
+    {
+        "id": "42154426713",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 861331171,
+            "name": "Gustavo-Pasciano93/Pipeline-de-Dados",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "projeto de um ETL em python",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-09-22T16:02:26Z"
+    },
+    {
+        "id": "42154271254",
+        "type": "PushEvent",
+        "actor": {
+            "id": 146571137,
+            "login": "Gustavo-Pasciano93",
+            "display_login": "Gustavo-Pasciano93",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Gustavo-Pasciano93",
+            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+        },
+        "repo": {
+            "id": 736030199,
+            "name": "Gustavo-Pasciano93/Gustavo-Pasciano93",
+            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93"
+        },
+        "payload": {
+            "repository_id": 736030199,
+            "push_id": 20354932393,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "9dc11a06f2728b355698345b9471297462c780e2",
-            "before": "159719f2b6ea42fa469445a96f2521cf96d866fe",
+            "head": "4fbbcbde8cc58b32effff68f15700a895299a1ff",
+            "before": "e476b2ff6e8529352d1d384df9f1042a67bc0c47",
             "commits": [
                 {
-                    "sha": "9dc11a06f2728b355698345b9471297462c780e2",
+                    "sha": "4fbbcbde8cc58b32effff68f15700a895299a1ff",
                     "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
+                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
+                        "name": "Gustavo Pasciano"
                     },
-                    "message": "atualizando readme",
+                    "message": "Update README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/9dc11a06f2728b355698345b9471297462c780e2"
+                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93/commits/4fbbcbde8cc58b32effff68f15700a895299a1ff"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-11-20T16:20:26Z"
-    },
-    {
-        "id": "44022937429",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
-        },
-        "payload": {
-            "repository_id": 877982675,
-            "push_id": 21314872534,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "159719f2b6ea42fa469445a96f2521cf96d866fe",
-            "before": "ed0b42375aacf93328fdb22361d0a0d9704d8aec",
-            "commits": [
-                {
-                    "sha": "159719f2b6ea42fa469445a96f2521cf96d866fe",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "ajustes no readme",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/159719f2b6ea42fa469445a96f2521cf96d866fe"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-20T16:15:20Z"
-    },
-    {
-        "id": "44022704549",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
-        },
-        "payload": {
-            "repository_id": 877982675,
-            "push_id": 21314759525,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "ed0b42375aacf93328fdb22361d0a0d9704d8aec",
-            "before": "924f989790a1ea1a317d6c20745fbf56f687b47a",
-            "commits": [
-                {
-                    "sha": "ed0b42375aacf93328fdb22361d0a0d9704d8aec",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "ajustestes finais de correção para não aceitar valores negativos. E adiçao de readme mais completo",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/ed0b42375aacf93328fdb22361d0a0d9704d8aec"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-20T16:09:14Z"
-    },
-    {
-        "id": "44021493520",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
-        },
-        "payload": {
-            "repository_id": 877982675,
-            "push_id": 21314166193,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "924f989790a1ea1a317d6c20745fbf56f687b47a",
-            "before": "ec8b8a3494cefe4db3f72faab10d23f422e1c515",
-            "commits": [
-                {
-                    "sha": "924f989790a1ea1a317d6c20745fbf56f687b47a",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "ajustando metodo de verificação de valor negativo",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/924f989790a1ea1a317d6c20745fbf56f687b47a"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-20T15:39:22Z"
-    },
-    {
-        "id": "44020334697",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
-        },
-        "payload": {
-            "repository_id": 877982675,
-            "push_id": 21313549894,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "ec8b8a3494cefe4db3f72faab10d23f422e1c515",
-            "before": "8645940d877a59ec34041766e77a629e3979c7ef",
-            "commits": [
-                {
-                    "sha": "ec8b8a3494cefe4db3f72faab10d23f422e1c515",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunosanttos"
-                    },
-                    "message": ".",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/ec8b8a3494cefe4db3f72faab10d23f422e1c515"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-20T15:14:42Z"
-    },
-    {
-        "id": "43980243432",
-        "type": "PushEvent",
-        "actor": {
-            "id": 163612337,
-            "login": "bruunovsanttos",
-            "display_login": "bruunovsanttos",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/bruunovsanttos",
-            "avatar_url": "https://avatars.githubusercontent.com/u/163612337?"
-        },
-        "repo": {
-            "id": 877982675,
-            "name": "bruunovsanttos/Rastreador_de_Despesas",
-            "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas"
-        },
-        "payload": {
-            "repository_id": 877982675,
-            "push_id": 21294100214,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "8645940d877a59ec34041766e77a629e3979c7ef",
-            "before": "012cff6bc99304662b6f7bf20f8e16ef04b1253d",
-            "commits": [
-                {
-                    "sha": "8645940d877a59ec34041766e77a629e3979c7ef",
-                    "author": {
-                        "email": "bruno-vieira-santos@hotmail.com",
-                        "name": "bruunovsanttos"
-                    },
-                    "message": "adicionando imagens de teste unitario",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/bruunovsanttos/Rastreador_de_Despesas/commits/8645940d877a59ec34041766e77a629e3979c7ef"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-19T16:00:49Z"
+        "created_at": "2024-09-22T15:46:29Z"
     }
 ]

@@ -16,15 +16,15 @@ def salva_json(usuario):
     try:
 
         resposta = requests.get(url)
-        print(f"Status Code: {resposta.status_code}")
-        print(f"Conteúdo da Resposta: {resposta.text[:200]}")
+        #print(f"Status Code: {resposta.status_code}")
+        #print(f"Conteúdo da Resposta: {resposta.text[:200]}")
 
         if resposta.status_code == 200:
             atividades = resposta.json()
             if atividades:
                 with open(caminho_completo, "w", encoding="utf-8") as arquivo:
                     json.dump(resposta.json(), arquivo, ensure_ascii=False, indent=4)
-                    print(f"A atividade do usuario {usuario} foi salva com sucesso no arquivo {nome_arquivo}")
+                    print(f"A atividade do usuario {usuario} foi salva arquivo {nome_arquivo}")
             else:
                 print(f"Não foi possivel encontrar atividade do usuário {usuario}")
 

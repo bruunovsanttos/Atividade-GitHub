@@ -22,10 +22,9 @@ def salva_json(usuario):
         if resposta.status_code == 200:
             atividades = resposta.json()
             if atividades:
-                if os.path.exists(caminho_completo):
-                    with open(caminho_completo, "w", encoding="utf-8") as arquivo:
-                        json.dump(resposta.json(), arquivo, ensure_ascii=False, indent=4)
-                        print(f"A atividade do usuario {usuario} foi salva com sucesso no arquivo {nome_arquivo}")
+                with open(caminho_completo, "w", encoding="utf-8") as arquivo:
+                    json.dump(resposta.json(), arquivo, ensure_ascii=False, indent=4)
+                    print(f"A atividade do usuario {usuario} foi salva com sucesso no arquivo {nome_arquivo}")
             else:
                 print(f"Não foi possivel encontrar atividade do usuário {usuario}")
 
@@ -34,8 +33,8 @@ def salva_json(usuario):
         else:
             print(f"Erro ao buscar atividade do usuário {usuario}. Status code {resposta.status_code}")
 
-    except requests.exceptions.RequestException as e:
-        print(f"Erro de conexão com a API: {e}")
+    except requests.exceptions.RequestException as erro:
+        print(f"Erro de conexão com a API: {erro}")
 
 
 
@@ -72,7 +71,7 @@ def exibir_atividade():
 
             if atividades:
                 print("\n Atividades Recentes: ")
-                for atividade in atividades[:5]:
+                for atividade in atividades:
                     tipo = atividade['type']
                     repositorio = atividade['repo']['name']
 
@@ -92,8 +91,6 @@ def exibir_atividade():
 
                     elif tipo == 'ForkEvent':
                         print(f"O repositório {repositorio} foi forkado")
-
-
 
 def main():
 

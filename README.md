@@ -61,8 +61,7 @@ Após a execução, você verá uma lista com os eventos recentes do usuário, c
 2. Usuario: Gustavo-Pasciano93  
 ![img_1.png](img_1.png)  
 3. Usurio: DevMarianaSouza
-![img_2.png](img_2.png)  
-
+![img_2.png](img_2.png) 
 
 
 

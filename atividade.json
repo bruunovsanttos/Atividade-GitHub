@@ -1,868 +1,543 @@
 [
     {
-        "id": "44052420183",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 882807729,
-            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
-        },
-        "payload": {
-            "repository_id": 882807729,
-            "push_id": 21329406731,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "1cb96af4c9853c4a2a4c0620a9b99705eb03123b",
-            "before": "59d46af46b80d82af7183593666c9d29c2ade635",
-            "commits": [
-                {
-                    "sha": "1cb96af4c9853c4a2a4c0620a9b99705eb03123b",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Update extract_and_save_data.ipynb",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL/commits/1cb96af4c9853c4a2a4c0620a9b99705eb03123b"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-21T11:00:35Z"
-    },
-    {
-        "id": "44052261559",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 882807729,
-            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
-        },
-        "payload": {
-            "repository_id": 882807729,
-            "push_id": 21329328795,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "59d46af46b80d82af7183593666c9d29c2ade635",
-            "before": "9b63d832863b0ccc21c5bc90e25da4db8889b917",
-            "commits": [
-                {
-                    "sha": "59d46af46b80d82af7183593666c9d29c2ade635",
-                    "author": {
-                        "email": "gustavohqpasciano@gmail.com",
-                        "name": "Gustavo-Pasciano93"
-                    },
-                    "message": "Corrige erro no notebook extract_and_save_data.ipynb",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL/commits/59d46af46b80d82af7183593666c9d29c2ade635"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-21T10:56:07Z"
-    },
-    {
-        "id": "44051979936",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 882807729,
-            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
-        },
-        "payload": {
-            "repository_id": 882807729,
-            "push_id": 21329192106,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "9b63d832863b0ccc21c5bc90e25da4db8889b917",
-            "before": "925c0998fdb0a08ad2be21d210a527a3e1df3fc9",
-            "commits": [
-                {
-                    "sha": "9b63d832863b0ccc21c5bc90e25da4db8889b917",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Update extract_and_save_data.ipynb",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL/commits/9b63d832863b0ccc21c5bc90e25da4db8889b917"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-21T10:48:13Z"
-    },
-    {
-        "id": "44033335879",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 891739236,
-            "name": "Gustavo-Pasciano93/sales_dw_project",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sales_dw_project"
-        },
-        "payload": {
-            "repository_id": 891739236,
-            "push_id": 21319933729,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "6b86343deed6ae13302475db283109757e7b89a6",
-            "before": "5b24936d60e408e1737256c0d0ee788a92fc2abf",
-            "commits": [
-                {
-                    "sha": "6b86343deed6ae13302475db283109757e7b89a6",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Create README.md",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/sales_dw_project/commits/6b86343deed6ae13302475db283109757e7b89a6"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-20T22:00:30Z"
-    },
-    {
-        "id": "44033256042",
+        "id": "44263981823",
         "type": "CreateEvent",
         "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
         },
         "repo": {
-            "id": 891739236,
-            "name": "Gustavo-Pasciano93/sales_dw_project",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sales_dw_project"
+            "id": 895246592,
+            "name": "DevMarianaSouza/final_project_bootcampTNT",
+            "url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT"
         },
         "payload": {
-            "ref": "main",
+            "ref": "dev",
             "ref_type": "branch",
             "master_branch": "main",
-            "description": "Data Warehouse de Vendas construído no SQL Server com modelagem no SQL Power Architect. O projeto inclui dimensões de Tempo, Produto, Cliente e Campanha, além de uma Tabela Fato Vendas para análises avançadas. Contém scripts de criação, inserção de dados fictícios e consultas SQL para exploração dos dados.",
+            "description": "Projeto final do Bootcamp de Desenvolvimento de Jogos, da SoulCode com a TNT. Game 3D hyper casual. ",
             "pusher_type": "user"
         },
         "public": true,
-        "created_at": "2024-11-20T21:57:08Z"
+        "created_at": "2024-11-27T20:54:22Z"
     },
     {
-        "id": "44032924294",
-        "type": "CreateEvent",
+        "id": "44263920867",
+        "type": "ForkEvent",
         "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
         },
         "repo": {
-            "id": 891739236,
-            "name": "Gustavo-Pasciano93/sales_dw_project",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sales_dw_project"
+            "id": 895164573,
+            "name": "Okamiih/G1--DEV-GAMES-TNT",
+            "url": "https://api.github.com/repos/Okamiih/G1--DEV-GAMES-TNT"
         },
         "payload": {
-            "ref": null,
-            "ref_type": "repository",
-            "master_branch": "main",
-            "description": "Data Warehouse de Vendas construído no SQL Server com modelagem no SQL Power Architect. O projeto inclui dimensões de Tempo, Produto, Cliente e Campanha, além de uma Tabela Fato Vendas para análises avançadas. Contém scripts de criação, inserção de dados fictícios e consultas SQL para exploração dos dados.",
-            "pusher_type": "user"
+            "forkee": {
+                "id": 895246592,
+                "node_id": "R_kgDONVxhAA",
+                "name": "final_project_bootcampTNT",
+                "full_name": "DevMarianaSouza/final_project_bootcampTNT",
+                "private": false,
+                "owner": {
+                    "login": "DevMarianaSouza",
+                    "id": 148583625,
+                    "node_id": "U_kgDOCNs0yQ",
+                    "avatar_url": "https://avatars.githubusercontent.com/u/148583625?v=4",
+                    "gravatar_id": "",
+                    "url": "https://api.github.com/users/DevMarianaSouza",
+                    "html_url": "https://github.com/DevMarianaSouza",
+                    "followers_url": "https://api.github.com/users/DevMarianaSouza/followers",
+                    "following_url": "https://api.github.com/users/DevMarianaSouza/following{/other_user}",
+                    "gists_url": "https://api.github.com/users/DevMarianaSouza/gists{/gist_id}",
+                    "starred_url": "https://api.github.com/users/DevMarianaSouza/starred{/owner}{/repo}",
+                    "subscriptions_url": "https://api.github.com/users/DevMarianaSouza/subscriptions",
+                    "organizations_url": "https://api.github.com/users/DevMarianaSouza/orgs",
+                    "repos_url": "https://api.github.com/users/DevMarianaSouza/repos",
+                    "events_url": "https://api.github.com/users/DevMarianaSouza/events{/privacy}",
+                    "received_events_url": "https://api.github.com/users/DevMarianaSouza/received_events",
+                    "type": "User",
+                    "user_view_type": "public",
+                    "site_admin": false
+                },
+                "html_url": "https://github.com/DevMarianaSouza/final_project_bootcampTNT",
+                "description": "Projeto final do Bootcamp de Desenvolvimento de Jogos, da SoulCode com a TNT. Game 3D hyper casual. ",
+                "fork": true,
+                "url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT",
+                "forks_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/forks",
+                "keys_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/keys{/key_id}",
+                "collaborators_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/collaborators{/collaborator}",
+                "teams_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/teams",
+                "hooks_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/hooks",
+                "issue_events_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/issues/events{/number}",
+                "events_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/events",
+                "assignees_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/assignees{/user}",
+                "branches_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/branches{/branch}",
+                "tags_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/tags",
+                "blobs_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/git/blobs{/sha}",
+                "git_tags_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/git/tags{/sha}",
+                "git_refs_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/git/refs{/sha}",
+                "trees_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/git/trees{/sha}",
+                "statuses_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/statuses/{sha}",
+                "languages_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/languages",
+                "stargazers_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/stargazers",
+                "contributors_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/contributors",
+                "subscribers_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/subscribers",
+                "subscription_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/subscription",
+                "commits_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/commits{/sha}",
+                "git_commits_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/git/commits{/sha}",
+                "comments_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/comments{/number}",
+                "issue_comment_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/issues/comments{/number}",
+                "contents_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/contents/{+path}",
+                "compare_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/compare/{base}...{head}",
+                "merges_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/merges",
+                "archive_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/{archive_format}{/ref}",
+                "downloads_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/downloads",
+                "issues_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/issues{/number}",
+                "pulls_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/pulls{/number}",
+                "milestones_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/milestones{/number}",
+                "notifications_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/notifications{?since,all,participating}",
+                "labels_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/labels{/name}",
+                "releases_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/releases{/id}",
+                "deployments_url": "https://api.github.com/repos/DevMarianaSouza/final_project_bootcampTNT/deployments",
+                "created_at": "2024-11-27T20:51:33Z",
+                "updated_at": "2024-11-27T20:51:34Z",
+                "pushed_at": "2024-11-27T19:13:05Z",
+                "git_url": "git://github.com/DevMarianaSouza/final_project_bootcampTNT.git",
+                "ssh_url": "git@github.com:DevMarianaSouza/final_project_bootcampTNT.git",
+                "clone_url": "https://github.com/DevMarianaSouza/final_project_bootcampTNT.git",
+                "svn_url": "https://github.com/DevMarianaSouza/final_project_bootcampTNT",
+                "homepage": null,
+                "size": 60768,
+                "stargazers_count": 0,
+                "watchers_count": 0,
+                "language": null,
+                "has_issues": false,
+                "has_projects": true,
+                "has_downloads": true,
+                "has_wiki": true,
+                "has_pages": false,
+                "has_discussions": false,
+                "forks_count": 0,
+                "mirror_url": null,
+                "archived": false,
+                "disabled": false,
+                "open_issues_count": 0,
+                "license": null,
+                "allow_forking": true,
+                "is_template": false,
+                "web_commit_signoff_required": false,
+                "topics": [],
+                "visibility": "public",
+                "forks": 0,
+                "open_issues": 0,
+                "watchers": 0,
+                "default_branch": "main",
+                "public": true
+            }
         },
         "public": true,
-        "created_at": "2024-11-20T21:43:27Z"
+        "created_at": "2024-11-27T20:51:35Z"
     },
     {
-        "id": "43678183440",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 736030199,
-            "name": "Gustavo-Pasciano93/Gustavo-Pasciano93",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93"
-        },
-        "payload": {
-            "repository_id": 736030199,
-            "push_id": 21140594290,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "2ed926e4749762ec5fb2ba61a37aad90dd209700",
-            "before": "9d9449496b003d9a97d264b80e7d7a0531afac01",
-            "commits": [
-                {
-                    "sha": "2ed926e4749762ec5fb2ba61a37aad90dd209700",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Update README.md",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93/commits/2ed926e4749762ec5fb2ba61a37aad90dd209700"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-10T15:45:04Z"
-    },
-    {
-        "id": "43678140728",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 736030199,
-            "name": "Gustavo-Pasciano93/Gustavo-Pasciano93",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93"
-        },
-        "payload": {
-            "repository_id": 736030199,
-            "push_id": 21140566987,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "9d9449496b003d9a97d264b80e7d7a0531afac01",
-            "before": "35e23a950f82f70c4d116ee622bf7d9391f16af5",
-            "commits": [
-                {
-                    "sha": "9d9449496b003d9a97d264b80e7d7a0531afac01",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Update README.md",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93/commits/9d9449496b003d9a97d264b80e7d7a0531afac01"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-10T15:41:03Z"
-    },
-    {
-        "id": "43460048177",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 882807729,
-            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
-        },
-        "payload": {
-            "repository_id": 882807729,
-            "push_id": 21028616771,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "925c0998fdb0a08ad2be21d210a527a3e1df3fc9",
-            "before": "c9df6285f4ae13eca5c30b0a0e6532a4077cd3e7",
-            "commits": [
-                {
-                    "sha": "925c0998fdb0a08ad2be21d210a527a3e1df3fc9",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Create README.md",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL/commits/925c0998fdb0a08ad2be21d210a527a3e1df3fc9"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-03T20:22:23Z"
-    },
-    {
-        "id": "43459929818",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 882807729,
-            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "master_branch": "main",
-            "description": "Este repositório contém um projeto ETL (Extract, Transform, Load) em Python. Os dados são extraídos de uma API pública, armazenados em um banco de dados MongoDB e transformados antes de serem carregados em uma tabela MySQL. Um ótimo exemplo para quem deseja aprender sobre manipulação de dados e integração entre diferentes bancos de dados.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-11-03T20:11:00Z"
-    },
-    {
-        "id": "43459912773",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 882807729,
-            "name": "Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/DataPipelineETL-MongoDB-MySQL"
-        },
-        "payload": {
-            "ref": null,
-            "ref_type": "repository",
-            "master_branch": "main",
-            "description": "Este repositório contém um projeto ETL (Extract, Transform, Load) em Python. Os dados são extraídos de uma API pública, armazenados em um banco de dados MongoDB e transformados antes de serem carregados em uma tabela MySQL. Um ótimo exemplo para quem deseja aprender sobre manipulação de dados e integração entre diferentes bancos de dados.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-11-03T20:09:19Z"
-    },
-    {
-        "id": "43459869416",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 736030199,
-            "name": "Gustavo-Pasciano93/Gustavo-Pasciano93",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93"
-        },
-        "payload": {
-            "repository_id": 736030199,
-            "push_id": 21028491815,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "35e23a950f82f70c4d116ee622bf7d9391f16af5",
-            "before": "4fbbcbde8cc58b32effff68f15700a895299a1ff",
-            "commits": [
-                {
-                    "sha": "35e23a950f82f70c4d116ee622bf7d9391f16af5",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Update README.md",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93/commits/35e23a950f82f70c4d116ee622bf7d9391f16af5"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-11-03T20:04:48Z"
-    },
-    {
-        "id": "42585064827",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 868608144,
-            "name": "Gustavo-Pasciano93/sql-loja-virtual",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sql-loja-virtual"
-        },
-        "payload": {
-            "repository_id": 868608144,
-            "push_id": 20578405317,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "d17eaf3e559e648e3cf3fae86bcdaaf5bccba5fe",
-            "before": "8c77b7991ade94599c5476500654dd786a91498e",
-            "commits": [
-                {
-                    "sha": "d17eaf3e559e648e3cf3fae86bcdaaf5bccba5fe",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Create README.md",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/sql-loja-virtual/commits/d17eaf3e559e648e3cf3fae86bcdaaf5bccba5fe"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-10-06T20:09:57Z"
-    },
-    {
-        "id": "42585059602",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 868608144,
-            "name": "Gustavo-Pasciano93/sql-loja-virtual",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sql-loja-virtual"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "master_branch": "main",
-            "description": "Projeto de SQL Server para gerenciamento de uma loja virtual.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-10-06T20:09:23Z"
-    },
-    {
-        "id": "42585032262",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 868608144,
-            "name": "Gustavo-Pasciano93/sql-loja-virtual",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/sql-loja-virtual"
-        },
-        "payload": {
-            "ref": null,
-            "ref_type": "repository",
-            "master_branch": "main",
-            "description": "Projeto de SQL Server para gerenciamento de uma loja virtual.",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-10-06T20:06:22Z"
-    },
-    {
-        "id": "42370720731",
-        "type": "PushEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 864909475,
-            "name": "Gustavo-Pasciano93/moedas-paises",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises"
-        },
-        "payload": {
-            "repository_id": 864909475,
-            "push_id": 20466409267,
-            "size": 1,
-            "distinct_size": 1,
-            "ref": "refs/heads/main",
-            "head": "915dfc26af00e66cee359a37d265b090ee9351f3",
-            "before": "a3b4c6688d5aa01842212ef31e8c259ed5a24560",
-            "commits": [
-                {
-                    "sha": "915dfc26af00e66cee359a37d265b090ee9351f3",
-                    "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
-                    },
-                    "message": "Create README.md",
-                    "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises/commits/915dfc26af00e66cee359a37d265b090ee9351f3"
-                }
-            ]
-        },
-        "public": true,
-        "created_at": "2024-09-29T14:00:30Z"
-    },
-    {
-        "id": "42370655738",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 864909475,
-            "name": "Gustavo-Pasciano93/moedas-paises",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "master_branch": "main",
-            "description": "ETL com uso de API para gerar um DataFrame",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-09-29T13:53:42Z"
-    },
-    {
-        "id": "42370609117",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 864909475,
-            "name": "Gustavo-Pasciano93/moedas-paises",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises"
-        },
-        "payload": {
-            "ref": null,
-            "ref_type": "repository",
-            "master_branch": "main",
-            "description": "ETL com uso de API para gerar um DataFrame",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-09-29T13:49:15Z"
-    },
-    {
-        "id": "42361678711",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 864661949,
-            "name": "Gustavo-Pasciano93/moedas-paises-lingua-portuguesa",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises-lingua-portuguesa"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "master_branch": "main",
-            "description": "Repositório com todos os paises de lingua portuguesa e suas devidas moedas, gerado por API",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-09-28T20:27:16Z"
-    },
-    {
-        "id": "42361621559",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 864661949,
-            "name": "Gustavo-Pasciano93/moedas-paises-lingua-portuguesa",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/moedas-paises-lingua-portuguesa"
-        },
-        "payload": {
-            "ref": null,
-            "ref_type": "repository",
-            "master_branch": "main",
-            "description": "Repositório com todos os paises de lingua portuguesa e suas devidas moedas, gerado por API",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-09-28T20:20:11Z"
-    },
-    {
-        "id": "42233741372",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 862570581,
-            "name": "Gustavo-Pasciano93/linguagens-utilizadas",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/linguagens-utilizadas"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "master_branch": "main",
-            "description": "Repositório com linguagens usadas pela Amazon",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-09-24T20:55:29Z"
-    },
-    {
-        "id": "42232988964",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 862570581,
-            "name": "Gustavo-Pasciano93/linguagens-utilizadas",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/linguagens-utilizadas"
-        },
-        "payload": {
-            "ref": null,
-            "ref_type": "repository",
-            "master_branch": "main",
-            "description": "Repositório com linguagens usadas pela Amazon",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-09-24T20:27:01Z"
-    },
-    {
-        "id": "42154541449",
+        "id": "44260368135",
         "type": "WatchEvent",
         "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
         },
         "repo": {
-            "id": 861331171,
-            "name": "Gustavo-Pasciano93/Pipeline-de-Dados",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados"
+            "id": 895164573,
+            "name": "Okamiih/G1--DEV-GAMES-TNT",
+            "url": "https://api.github.com/repos/Okamiih/G1--DEV-GAMES-TNT"
         },
         "payload": {
             "action": "started"
         },
         "public": true,
-        "created_at": "2024-09-22T16:13:58Z"
+        "created_at": "2024-11-27T18:30:54Z"
     },
     {
-        "id": "42154533358",
-        "type": "PushEvent",
+        "id": "43400293173",
+        "type": "WatchEvent",
         "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
         },
         "repo": {
-            "id": 861331171,
-            "name": "Gustavo-Pasciano93/Pipeline-de-Dados",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados"
+            "id": 785835405,
+            "name": "KatheIsabelle/KatheIsabelle.github.io",
+            "url": "https://api.github.com/repos/KatheIsabelle/KatheIsabelle.github.io"
         },
         "payload": {
-            "repository_id": 861331171,
-            "push_id": 20355106527,
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-31T18:26:44Z"
+    },
+    {
+        "id": "43021429200",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 875639960,
+            "name": "DevMarianaSouza/projeto-CDC-gestor-financeiro",
+            "url": "https://api.github.com/repos/DevMarianaSouza/projeto-CDC-gestor-financeiro"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-20T15:19:54Z"
+    },
+    {
+        "id": "43021001749",
+        "type": "PushEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 875639960,
+            "name": "DevMarianaSouza/projeto-CDC-gestor-financeiro",
+            "url": "https://api.github.com/repos/DevMarianaSouza/projeto-CDC-gestor-financeiro"
+        },
+        "payload": {
+            "repository_id": 875639960,
+            "push_id": 20802527348,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "72e99f869902be962cd4b6d5e16e20336039906e",
-            "before": "06038d99889d88825cae36844f612e3e13f740f2",
+            "head": "6ac3092c4885acd890c43b8493fb77fa74d820a6",
+            "before": "676a829151b6727709d110dd4f18155957d2d52f",
             "commits": [
                 {
-                    "sha": "72e99f869902be962cd4b6d5e16e20336039906e",
+                    "sha": "6ac3092c4885acd890c43b8493fb77fa74d820a6",
                     "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
+                        "email": "148583625+DevMarianaSouza@users.noreply.github.com",
+                        "name": "Mariana Souza"
                     },
-                    "message": "Create README.md",
+                    "message": "Update README.md",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados/commits/72e99f869902be962cd4b6d5e16e20336039906e"
+                    "url": "https://api.github.com/repos/DevMarianaSouza/projeto-CDC-gestor-financeiro/commits/6ac3092c4885acd890c43b8493fb77fa74d820a6"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-09-22T16:13:07Z"
+        "created_at": "2024-10-20T14:39:48Z"
     },
     {
-        "id": "42154442607",
+        "id": "43020691910",
         "type": "CreateEvent",
         "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
         },
         "repo": {
-            "id": 861331171,
-            "name": "Gustavo-Pasciano93/Pipeline-de-Dados",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados"
-        },
-        "payload": {
-            "ref": "main",
-            "ref_type": "branch",
-            "master_branch": "main",
-            "description": "projeto de um ETL em python",
-            "pusher_type": "user"
-        },
-        "public": true,
-        "created_at": "2024-09-22T16:04:04Z"
-    },
-    {
-        "id": "42154426713",
-        "type": "CreateEvent",
-        "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
-        },
-        "repo": {
-            "id": 861331171,
-            "name": "Gustavo-Pasciano93/Pipeline-de-Dados",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Pipeline-de-Dados"
+            "id": 875639960,
+            "name": "DevMarianaSouza/projeto-CDC-gestor-financeiro",
+            "url": "https://api.github.com/repos/DevMarianaSouza/projeto-CDC-gestor-financeiro"
         },
         "payload": {
             "ref": null,
             "ref_type": "repository",
             "master_branch": "main",
-            "description": "projeto de um ETL em python",
+            "description": "Aqui ficará as versões do nosso projeto da Comunidade Dev Completo, no qual criaremos do zero um Gestor Financeiro. ",
             "pusher_type": "user"
         },
         "public": true,
-        "created_at": "2024-09-22T16:02:26Z"
+        "created_at": "2024-10-20T14:13:17Z"
     },
     {
-        "id": "42154271254",
-        "type": "PushEvent",
+        "id": "43020691876",
+        "type": "CreateEvent",
         "actor": {
-            "id": 146571137,
-            "login": "Gustavo-Pasciano93",
-            "display_login": "Gustavo-Pasciano93",
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
             "gravatar_id": "",
-            "url": "https://api.github.com/users/Gustavo-Pasciano93",
-            "avatar_url": "https://avatars.githubusercontent.com/u/146571137?"
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
         },
         "repo": {
-            "id": 736030199,
-            "name": "Gustavo-Pasciano93/Gustavo-Pasciano93",
-            "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93"
+            "id": 875639960,
+            "name": "DevMarianaSouza/projeto-CDC-gestor-financeiro",
+            "url": "https://api.github.com/repos/DevMarianaSouza/projeto-CDC-gestor-financeiro"
         },
         "payload": {
-            "repository_id": 736030199,
-            "push_id": 20354932393,
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "Aqui ficará as versões do nosso projeto da Comunidade Dev Completo, no qual criaremos do zero um Gestor Financeiro. ",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-10-20T14:13:17Z"
+    },
+    {
+        "id": "42800045749",
+        "type": "PushEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 871692793,
+            "name": "DevMarianaSouza/desafios_dio",
+            "url": "https://api.github.com/repos/DevMarianaSouza/desafios_dio"
+        },
+        "payload": {
+            "repository_id": 871692793,
+            "push_id": 20688712159,
             "size": 1,
             "distinct_size": 1,
             "ref": "refs/heads/main",
-            "head": "4fbbcbde8cc58b32effff68f15700a895299a1ff",
-            "before": "e476b2ff6e8529352d1d384df9f1042a67bc0c47",
+            "head": "670f2a5ced2edd7e67658e98fd81e23a3bd49941",
+            "before": "304d82f5ead65a263a980395c5d91b1a5ce6057b",
             "commits": [
                 {
-                    "sha": "4fbbcbde8cc58b32effff68f15700a895299a1ff",
+                    "sha": "670f2a5ced2edd7e67658e98fd81e23a3bd49941",
                     "author": {
-                        "email": "146571137+Gustavo-Pasciano93@users.noreply.github.com",
-                        "name": "Gustavo Pasciano"
+                        "email": "mariana.tt.souza@gmail.com",
+                        "name": "DevMarianaSouza"
                     },
-                    "message": "Update README.md",
+                    "message": "segundo desafio utilizando classes, objetos",
                     "distinct": true,
-                    "url": "https://api.github.com/repos/Gustavo-Pasciano93/Gustavo-Pasciano93/commits/4fbbcbde8cc58b32effff68f15700a895299a1ff"
+                    "url": "https://api.github.com/repos/DevMarianaSouza/desafios_dio/commits/670f2a5ced2edd7e67658e98fd81e23a3bd49941"
                 }
             ]
         },
         "public": true,
-        "created_at": "2024-09-22T15:46:29Z"
+        "created_at": "2024-10-13T14:51:09Z"
+    },
+    {
+        "id": "42789455977",
+        "type": "PushEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 871692793,
+            "name": "DevMarianaSouza/desafios_dio",
+            "url": "https://api.github.com/repos/DevMarianaSouza/desafios_dio"
+        },
+        "payload": {
+            "repository_id": 871692793,
+            "push_id": 20681715711,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "304d82f5ead65a263a980395c5d91b1a5ce6057b",
+            "before": "b74303f83cc7a0e404ba9f3c0129540edcd2bbe4",
+            "commits": [
+                {
+                    "sha": "304d82f5ead65a263a980395c5d91b1a5ce6057b",
+                    "author": {
+                        "email": "mariana.tt.souza@gmail.com",
+                        "name": "DevMarianaSouza"
+                    },
+                    "message": "Revert \"entrega do desafio, estudando lógica usando JS\"\n\nThis reverts commit 4ae455a975e4247bcb499a958fc240a840968bc1.",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/DevMarianaSouza/desafios_dio/commits/304d82f5ead65a263a980395c5d91b1a5ce6057b"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-12T17:29:02Z"
+    },
+    {
+        "id": "42789355543",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 871692793,
+            "name": "DevMarianaSouza/desafios_dio",
+            "url": "https://api.github.com/repos/DevMarianaSouza/desafios_dio"
+        },
+        "payload": {
+            "ref": "main",
+            "ref_type": "branch",
+            "master_branch": "main",
+            "description": "Aqui guardo a resolução dos desafios propostos pela plataforma da DIO. ",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-10-12T17:19:12Z"
+    },
+    {
+        "id": "42789292880",
+        "type": "CreateEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 871692793,
+            "name": "DevMarianaSouza/desafios_dio",
+            "url": "https://api.github.com/repos/DevMarianaSouza/desafios_dio"
+        },
+        "payload": {
+            "ref": null,
+            "ref_type": "repository",
+            "master_branch": "main",
+            "description": "Aqui guardo a resolução dos desafios propostos pela plataforma da DIO. ",
+            "pusher_type": "user"
+        },
+        "public": true,
+        "created_at": "2024-10-12T17:12:33Z"
+    },
+    {
+        "id": "42437161946",
+        "type": "WatchEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 568106065,
+            "name": "Tenille10/Ruby_Developer",
+            "url": "https://api.github.com/repos/Tenille10/Ruby_Developer"
+        },
+        "payload": {
+            "action": "started"
+        },
+        "public": true,
+        "created_at": "2024-10-01T13:24:03Z"
+    },
+    {
+        "id": "42434970739",
+        "type": "PushEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 813250374,
+            "name": "DevMarianaSouza/meu-primeiro-projeto-back-end",
+            "url": "https://api.github.com/repos/DevMarianaSouza/meu-primeiro-projeto-back-end"
+        },
+        "payload": {
+            "repository_id": 813250374,
+            "push_id": 20499405232,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "ed9cc2d74566f02834fe1d4d9de8d2acaa3e90d8",
+            "before": "cf9672784d121aad7ffd764d8964470a0a9eafbe",
+            "commits": [
+                {
+                    "sha": "ed9cc2d74566f02834fe1d4d9de8d2acaa3e90d8",
+                    "author": {
+                        "email": "148583625+DevMarianaSouza@users.noreply.github.com",
+                        "name": "Mariana Souza"
+                    },
+                    "message": "Create README.md",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/DevMarianaSouza/meu-primeiro-projeto-back-end/commits/ed9cc2d74566f02834fe1d4d9de8d2acaa3e90d8"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-01T12:29:59Z"
+    },
+    {
+        "id": "42432874157",
+        "type": "PushEvent",
+        "actor": {
+            "id": 148583625,
+            "login": "DevMarianaSouza",
+            "display_login": "DevMarianaSouza",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/DevMarianaSouza",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148583625?"
+        },
+        "repo": {
+            "id": 811508017,
+            "name": "DevMarianaSouza/DevMarianaSouza",
+            "url": "https://api.github.com/repos/DevMarianaSouza/DevMarianaSouza"
+        },
+        "payload": {
+            "repository_id": 811508017,
+            "push_id": 20498363037,
+            "size": 1,
+            "distinct_size": 1,
+            "ref": "refs/heads/main",
+            "head": "0bed95c4091836649520e3695687779d46e22eb4",
+            "before": "30f6a49bdd0afa89641a383308fe387442375a68",
+            "commits": [
+                {
+                    "sha": "0bed95c4091836649520e3695687779d46e22eb4",
+                    "author": {
+                        "email": "148583625+DevMarianaSouza@users.noreply.github.com",
+                        "name": "Mariana Souza"
+                    },
+                    "message": "Update README.md",
+                    "distinct": true,
+                    "url": "https://api.github.com/repos/DevMarianaSouza/DevMarianaSouza/commits/0bed95c4091836649520e3695687779d46e22eb4"
+                }
+            ]
+        },
+        "public": true,
+        "created_at": "2024-10-01T11:29:23Z"
     }
 ]

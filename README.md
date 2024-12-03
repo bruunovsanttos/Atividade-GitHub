@@ -1,19 +1,24 @@
-# Atividade-GitHub
+# Atividade GitHub
+## Explore e Salve Atividades de Usuários
 Neste projeto foi uilizada a [API do Github](https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28) com base no projeto criado no [Roadmap.sh](https://roadmap.sh/projects/github-user-activity) para verificar as atividades de usuários da rede Github.  
 
 # Requisitos de Projeto
 * Busca e exibe eventos recentes de um usuário no GitHub. 📥
 * Salva as atividades em um arquivo JSON para consulta offline. 💾
-* Lida com erros de maneira elegante (usuários inválidos, falhas de conexão, etc.).✅
+* Lida com erros de maneira elegante 
+  * usuários inválidos ✅
+  * falhas de conexão ✅
 * Suporte a múltiplos tipos de eventos 🛠️, como:
   * Pushes (commits enviados).
   * Issues abertas ou comentadas.
   * Estrelas adicionadas a repositórios.
-  * Mensagens de Commit enviadas  
+  * Mensagens de Commit enviadas  (implementado por mim para melhor visualização do commit)
 
 # Ferramentas do Projeto 🔨🔧  
 ### Linguagem de programação
-#### Python 3.12  🐍
+#### Python 3.12  🐍 
+
+ 
 ### Bibliotecas Utilizadas📚
 [Argparse](https://docs.python.org/pt-br/3/library/argparse.html#module-argparse) A utilização dessa biblioteca consiste na manipulação correta dos argumentos dados pelo usuário do programa, sem que ocorram erros.  
 
@@ -64,5 +69,18 @@ Após a execução, você verá uma lista com os eventos recentes do usuário, c
 3. Usurio: DevMarianaSouza
 ![img_2.png](img_2.png) 
 
+## Licença ✅
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.  
 
+## Como Contribuir
+1. Faça um fork do projeto.
+2. Crie uma nova branch:
+    ```bash
+    git checkout -b minha-feature
+    ```
+3. Faça suas alterações e comite:
+    ```bash
+    git commit -m "Adiciona minha nova feature"
+    ```
+4. Envie um pull request.
 

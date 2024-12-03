@@ -9,6 +9,7 @@ Neste projeto foi uilizada a [API do Github](https://docs.github.com/en/rest/act
   * Pushes (commits enviados).
   * Issues abertas ou comentadas.
   * Estrelas adicionadas a repositórios.
+  * Mensagens de Commit enviadas  
 
 # Ferramentas do Projeto 🔨🔧  
 ### Linguagem de programação
